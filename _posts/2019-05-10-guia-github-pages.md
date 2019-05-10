@@ -11,7 +11,7 @@ date: 2019-05-10T17:30:00Z
 </p>
 
 <p>
-	<a href="https://learn.cloudcannon.com">
+	<a href="https://learn.cloudcannon.com" target="_blank">
 		Jekyll & CloudCannon
 	</a>
 </p>
